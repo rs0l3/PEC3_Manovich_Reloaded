@@ -4,6 +4,7 @@
 ### Recurs d'aprenentatge de Cultura Digital
 
 Autor: Ramon Solé Duclos
+
 Data: 16/12/2023
 
 ## Plantejament
